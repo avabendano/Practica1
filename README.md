@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo de la práctica 1, que incluye:
 
-- Dataset: `Fashion_Retail_Sales.csv`
+- Dataset: (Ventas Minorista de Moda) `Fashion_Retail_Sales.csv`
 - Notebook ejecutado localmente en (JupyterLab): `Proyecto_IA_Victoria.ipynb`
 - Enlace al notebook ejecutado en la nube (Google Colab):  
   [Ver en Google Colab](https://colab.research.google.com/drive/1-oLsllPhpEKDqxxbIZ70mqcYYYCPVjD_?usp=sharing)
